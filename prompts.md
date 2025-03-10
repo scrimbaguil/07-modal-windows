@@ -1,9 +1,4 @@
 ## Prompt 1
-Modify the fetch requests to check the response status and catch any errors. 
-Log the details and display a user-friendly error message if something goes wrong.
-
-## Prompt 2
-Rewrite this fetch request using `.then()` and `.catch()` instead of async/await.
-
-## ChatGPT Prompt (API Codes)
-What are the most common API error codes, and what do they mean?
+Add a 'Details' button on the left side of a movie card in the Search Results and Watchlist 
+Style it to look different from the 'Add to Watchlist' button.
+Clicking the button should open a modal window displaying the full movie details: poster, title, year, rating, genre, director, cast, and plot.
